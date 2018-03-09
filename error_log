@@ -1,0 +1,202 @@
+[31-Jan-2016 22:45:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportDataEntry.php on line 52
+[21-Mar-2016 16:48:53 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[21-Mar-2016 16:48:57 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[21-Mar-2016 16:52:49 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[22-Mar-2016 20:59:40 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[22-Mar-2016 20:59:51 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[22-Mar-2016 20:59:56 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[27-Mar-2016 11:28:48 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[29-Mar-2016 20:52:51 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[02-Apr-2016 15:11:07 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[07-Apr-2016 12:29:31 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/safebd/public_html/nepia/fpdf/CustomerList.php on line 292
+[07-Apr-2016 12:47:01 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/CustomerList.php on line 324
+[07-Apr-2016 12:48:28 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/CustomerList.php on line 324
+[07-Apr-2016 12:49:08 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/CustomerList.php on line 324
+[07-Apr-2016 12:49:12 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/CustomerList.php on line 324
+[09-Apr-2016 22:18:50 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[09-Apr-2016 22:19:22 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[21-Apr-2016 15:29:23 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[21-Apr-2016 15:32:44 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[28-May-2016 14:40:51 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''.KG'' (T_CONSTANT_ENCAPSED_STRING) in /home/safebd/public_html/nepia/fpdf/ProductionRecipeViewPdf.php on line 60
+[28-May-2016 14:40:53 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''.KG'' (T_CONSTANT_ENCAPSED_STRING) in /home/safebd/public_html/nepia/fpdf/ProductionRecipeViewPdf.php on line 60
+[28-May-2016 14:41:04 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''KG'' (T_CONSTANT_ENCAPSED_STRING) in /home/safebd/public_html/nepia/fpdf/ProductionRecipeViewPdf.php on line 60
+[28-May-2016 14:41:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ''KG'' (T_CONSTANT_ENCAPSED_STRING) in /home/safebd/public_html/nepia/fpdf/ProductionRecipeViewPdf.php on line 60
+[11-Jun-2016 10:45:25 Asia/Dhaka] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 81
+[19-Jun-2016 12:50:31 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialItem.php on line 63
+[19-Jun-2016 12:51:18 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialItem.php on line 63
+[19-Jun-2016 15:06:24 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[19-Jun-2016 15:06:34 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[14-Jul-2016 10:41:54 Asia/Dhaka] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/AttendanceReport.php on line 231
+[17-Jul-2016 12:05:14 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportFinishedGoodsStock.php on line 64
+[23-Jul-2016 11:17:14 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 679
+[23-Jul-2016 11:18:45 Asia/Dhaka] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 3
+[23-Jul-2016 11:18:45 Asia/Dhaka] PHP Warning:  mysql_query(): A link to the server could not be established in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 3
+[23-Jul-2016 11:18:45 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 4
+[23-Jul-2016 11:19:26 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 4
+[23-Jul-2016 12:08:07 Asia/Dhaka] PHP Parse error:  syntax error, unexpected ',' in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerDetails.php on line 708
+[24-Jul-2016 15:03:41 Asia/Dhaka] PHP Warning:  Missing argument 2 for FPDF::SetXY(), called in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 59 and defined in /home/safebd/public_html/nepia/fpdf/fpdf.php on line 976
+[25-Jul-2016 14:39:14 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ReportProduct.php on line 62
+[25-Jul-2016 15:03:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[25-Jul-2016 15:03:37 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[27-Jul-2016 16:11:02 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$u_price' (T_VARIABLE) in /home/safebd/public_html/nepia/fpdf/ReportSalesDetails.php on line 86
+[28-Jul-2016 20:49:29 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[28-Jul-2016 20:49:48 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[28-Jul-2016 20:54:05 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[28-Jul-2016 21:15:25 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[28-Jul-2016 21:15:36 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[28-Jul-2016 21:15:53 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ReportRawMaterialIn.php on line 85
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:41:30 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:45:32 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:50:16 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 84
+[30-Jul-2016 11:51:15 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[30-Jul-2016 11:51:15 Asia/Dhaka] PHP Warning:  Division by zero in /home/safebd/public_html/nepia/fpdf/ProductCosting.php on line 94
+[31-Jul-2016 15:40:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/ReportIncomeStatement.php on line 123
+[31-Jul-2016 15:41:06 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/ReportIncomeStatement.php on line 130
+[31-Jul-2016 15:41:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected end of file in /home/safebd/public_html/nepia/fpdf/ReportIncomeStatement.php on line 130
+[31-Jul-2016 16:48:32 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/safebd/public_html/nepia/fpdf/ReportIncomeStatement.php on line 18
+[31-Jul-2016 16:48:32 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/safebd/public_html/nepia/fpdf/ReportIncomeStatement.php on line 24
+[07-Aug-2016 12:19:25 Asia/Dhaka] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerSummary.php on line 550
+[07-Aug-2016 12:58:19 Asia/Dhaka] PHP Fatal error:  Call to undefined method PDF::strtotime() in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerSummary.php on line 30
+[07-Aug-2016 12:58:52 Asia/Dhaka] PHP Fatal error:  Cannot access empty property in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerSummary.php on line 30
+[07-Aug-2016 13:07:51 Asia/Dhaka] PHP Fatal error:  Cannot access empty property in /home/safebd/public_html/nepia/fpdf/ReportClientLedgerSummary.php on line 37
